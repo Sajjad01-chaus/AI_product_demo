@@ -83,10 +83,10 @@ kubectl apply -f inference/deployment.yaml
 ```
 ---
 
-## 📌 Why This Repo Exists
+## 📌 Why This Repo 
 
 ```
-This repo is created as part of an **AI Product Manager technical exercise** to show:
+This repo is created as an **AI Product Manager ** to show:
 
 - Understanding of model lifecycle  
 - Ability to reason about K8s workloads  
